@@ -1,0 +1,24 @@
+_repo: The-Emigrant-Mechanic-and-Other-Tales-in-Verse-Together-with-Numerous-Songs-Upon-Canadian-Subj__7122
+creator:
+  author:
+    agent_name: Cowherd, Thomas
+    birthdate: 1817
+    deathdate: 1907
+    gutenberg_agent_id: '2345'
+    url: http://www.gutenberg.org/2009/agents/2345
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Cowherd
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: "The Emigrant Mechanic and Other Tales in Verse\r\nTogether with Numerous Songs\
+  \ Upon Canadian Subjects"
+url: http://www.gutenberg.org/ebooks/7122
