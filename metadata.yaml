@@ -1,4 +1,8 @@
 _repo: The-Emigrant-Mechanic-and-Other-Tales-in-Verse-Together-with-Numerous-Songs-Upon-Canadian-Subj__7122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cowherd, Thomas
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2345
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Cowherd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7122#The-Emigrant-Mechanic-and-Other-Tales-in-Verse-Together-with-Numerous-Songs-Upon-Canadian-Subj_
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
